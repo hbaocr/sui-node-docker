@@ -15,3 +15,8 @@ wget https://github.com/MystenLabs/sui-genesis/raw/main/devnet/genesis.blob
 docker compose -f ./docker-compose.yml up -d
 ```
 
+## check node
+
+[https://node.sui.zvalid.com/](https://node.sui.zvalid.com/)
+
+
